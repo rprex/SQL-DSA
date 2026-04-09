@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/rprex/SQL-DSA/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/rprex/SQL-DSA/tree/master/0511-game-play-analysis-i) |
 | [0585-investments-in-2016](https://github.com/rprex/SQL-DSA/tree/master/0585-investments-in-2016) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rprex/SQL-DSA/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rprex/SQL-DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rprex/SQL-DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
