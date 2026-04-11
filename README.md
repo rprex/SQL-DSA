@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rprex/SQL-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rprex/SQL-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/rprex/SQL-DSA/tree/master/0020-valid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rprex/SQL-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rprex/SQL-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
